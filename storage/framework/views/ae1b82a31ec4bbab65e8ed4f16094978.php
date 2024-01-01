@@ -1,0 +1,1 @@
+<?php /**PATH /home/aluno/Downloads/Banco-DS1-PROJETO/resources/views/pagamentos.blade.php ENDPATH**/ ?>
